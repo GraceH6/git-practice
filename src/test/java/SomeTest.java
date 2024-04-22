@@ -7,4 +7,9 @@ public class SomeTest {
     public void someTest() {
         Assert.assertTrue(true);
     }
+
+    @Test
+    public void someTest2() {
+        Assert.assertTrue(true);
+    }
 }
